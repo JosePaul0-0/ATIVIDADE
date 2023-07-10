@@ -6,7 +6,7 @@ Console.WriteLine("LISTA DE EXERCÍCIOS MATÉRIA: DESENVOLVEDOR DE SISTEMAS");
 Console.ReadLine();
 Console.Clear();
 
-Console.WriteLine("ESCOLHA O QUE QUER VER");
+Console.WriteLine("ESCOLHA O QUE QUER VER, tst");
 Console.ReadLine();
 
 while (opcoes != "7") 
